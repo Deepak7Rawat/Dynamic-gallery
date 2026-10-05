@@ -116,5 +116,57 @@ Each `.box` takes **25% width**, creating four equal columns.
 Images are given:
 
 ```css
-wid
+width: 100%;
 ```
+
+so that each image automatically fills the width of its respective gallery column.
+
+---
+
+## ✦ What I Practiced
+
+This project demonstrates fundamental front-end concepts:
+
+* HTML document structure
+* Image insertion using `<img>`
+* CSS Flexbox
+* Equal-width columns
+* Percentage-based layouts
+* Image sizing
+* CSS reset using universal selector
+* `box-sizing: border-box`
+* Basic page alignment
+* Organizing images into a gallery
+
+---
+
+## ✦ Future Improvements
+
+Possible next steps:
+
+* Add responsive layouts for mobile devices
+* Add image gaps and spacing
+* Add hover effects
+* Add rounded image corners
+* Add image captions
+* Add a lightbox image preview
+* Improve accessibility with meaningful `alt` text
+* Add smooth animations and transitions
+
+---
+
+## ✦ Author
+
+**Deepak Rawat**
+
+BCA Student · Web Development · Technology
+
+---
+
+<div align="center">
+
+### Made with HTML & CSS
+
+⭐ If you like this project, consider giving the repository a star.
+
+</div>
